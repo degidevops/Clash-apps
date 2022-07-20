@@ -1,4 +1,8 @@
 [submodule "clash-foss"]
 	path = core/src/foss/golang/clash
-	url = https://github.com/MetaCubeX/Clash.Meta
-	branch = android-open
+	url = https://github.com/taamarin/Clash.Meta.git
+	branch = android
+[submodule "core/src/foss/golang/clash"]
+	path = core/src/foss/golang/clash
+	url = https://github.com/taamarin/Clash.Meta.git
+	branch = android

@@ -34,7 +34,7 @@ subprojects {
     extensions.configure<BaseExtension> {
         defaultConfig {
             if (isApp) {
-                applicationId = "com.github.metacubex.clash"
+                applicationId = "com.github.metacubex.wss"
             }
 
             minSdk = 21
@@ -81,9 +81,6 @@ subprojects {
 
                 buildConfigField("boolean", "PREMIUM", "Boolean.parseBoolean(\"false\")")
 
-                if (isApp) {
-                    applicationIdSuffix = ".meta"
-                }
             }
         }
 

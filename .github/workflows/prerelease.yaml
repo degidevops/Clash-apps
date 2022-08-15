@@ -1,7 +1,9 @@
-name: build_pre_release
+name: build Prerelease
 on:
   workflow_dispatch:
-
+  push:
+    branches:
+      - WSS
 jobs:
   BuildPreRelease:
     runs-on: ubuntu-latest

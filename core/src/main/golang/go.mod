@@ -1,9 +1,9 @@
 module cfa
 
-go 1.18
+go 1.19
 
 require (
-	github.com/Dreamacro/clash v1.7.1
+	github.com/Dreamacro/clash v1.11.8
 	github.com/Kr328/tun2socket v0.0.0-20220414050025-d07c78d06d34
 	github.com/dlclark/regexp2 v1.4.0
 	github.com/miekg/dns v1.1.49
@@ -24,7 +24,7 @@ require (
 	github.com/go-task/slim-sprig v0.0.0-20210107165309-348f09dbbbc0 // indirect
 	github.com/gofrs/uuid v4.2.0+incompatible // indirect
 	github.com/google/gopacket v1.1.19 // indirect
-	github.com/gorilla/websocket v1.5.0 // indirect
+	github.com/taamarin/websocket v0.2.0 // indirect
 	github.com/insomniacslk/dhcp v0.0.0-20220504074936-1ca156eafb9f // indirect
 	github.com/klauspost/cpuid/v2 v2.0.12 // indirect
 	github.com/lucas-clemente/quic-go v0.27.2 // indirect

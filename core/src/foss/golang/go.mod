@@ -33,7 +33,7 @@ require (
 	github.com/sagernet/sing-shadowsocks v0.0.0-20220627234717-689e0165ef2c // indirect
 	github.com/sagernet/sing-vmess v0.0.0-20220616051646-3d3fc5d01eec // indirect
 	github.com/sirupsen/logrus v1.8.1 // indirect
-	github.com/taamarin/websocket v0.1.9 // indirect
+	github.com/taamarin/websocket v0.2.0 // indirect
 	github.com/u-root/uio v0.0.0-20220204230159-dac05f7d2cb4 // indirect
 	github.com/xtls/go v0.0.0-20210920065950-d4af136d3672 // indirect
 	go.etcd.io/bbolt v1.3.6 // indirect

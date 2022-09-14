@@ -17,7 +17,7 @@ require (
 	github.com/google/gopacket v1.1.19 // indirect
 	github.com/insomniacslk/dhcp v0.0.0-20220913101857-3194d6dcbf02 // indirect
 	github.com/klauspost/cpuid/v2 v2.1.1 // indirect
-	github.com/llycoris/websocket v0.0.0-20220913163644-5f68cd35b487 // indirect
+	github.com/llycoris/websocket v0.0.0-20220914070814-8438dd577663 // indirect
 	github.com/lucas-clemente/quic-go v0.29.0 // indirect
 	github.com/lunixbochs/struc v0.0.0-20200707160740-784aaebc1d40 // indirect
 	github.com/marten-seemann/qpack v0.2.1 // indirect
